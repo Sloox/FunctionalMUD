@@ -1,0 +1,2 @@
+{application, erMudapp,
+ [{mod, {erMudapp,[]}}]}.
