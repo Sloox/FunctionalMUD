@@ -24,14 +24,26 @@ Currently the following functions have been implemented:
 The player has access to the following functions while playing:
 
 ─	Attack <player> , attacks a player based of name
+
 ─	Say <msg>, public message to everyone in current room
+
 ─	Move <direction>, move to new location if possible
+
 ─	Look <direction>, look around for information
+
 ─	Listp, list players in current room
+
 ─	Search, search for item in current room
+
 ─	Info, provide verbose summary info
+
 ─	Whereami, where is the player
+
 ─	Inv, player stats
+
 ─	Help, general help
+
 ─	Quit, quit game
+
 The player also has the ability to make use of atmospheric commands such as cry, smile, dance to name a few.
+
