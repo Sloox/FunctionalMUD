@@ -4,13 +4,21 @@ erMUD needs to be compiled and run through the Erlang VM. Once the server is sta
 erMUD has support for Linux and Windows color formatting for traditional emersion. However the ANSI escape codes that are used require support for ANSI/VT100 within the console. Natively both Windows and Linux have support. For the cases where Windows does not have the telnet libraries installed Putty can be used instead.
 
 Currently the following functions have been implemented:
+
 ─	Player vs. Player
+
 ─	No limit to incoming client connections
+
 ─	Event generation to add atmosphere
+
 ─	Dynamic room loading through the dungeon.conf file
+
 ─	Personal messaging among players
+
 ─	Public messaging based on player room location
+
 ─	Primitive inventory
+
 ─	Random items scattered through rooms
 
 The player has access to the following functions while playing:
